@@ -1,6 +1,6 @@
 # 🚦 German Traffic Sign Recognition Benchmark (GTSRB) Classifier
 
-![alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd4c3pncjliOTJqdGFyaDNreXM0cGdxMmVvYjh1ODYzYWZrMngyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U57D8xBvTi599FwaAb/giphy.gif)
+![alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt1aDBsZmRiMG5pNHZ4OWQ2bTJoeWo4MG5kd2tobzI1ZGxkZG11MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlKQPTHOGNUPTZm/giphy.gif)
 
 > **A State-of-the-Art Deep Learning classifier achieving 99.6% accuracy using ResNet18 Transfer Learning.**
 
