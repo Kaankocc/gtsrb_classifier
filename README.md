@@ -1,6 +1,6 @@
 # 🚦 German Traffic Sign Recognition Benchmark (GTSRB) Classifier
 
-![Self Driving Car](https://media.giphy.com/media/4N9h897qA2g9Zq5u30/giphy.gif)
+![alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd4c3pncjliOTJqdGFyaDNreXM0cGdxMmVvYjh1ODYzYWZrMngyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U57D8xBvTi599FwaAb/giphy.gif)
 
 > **A State-of-the-Art Deep Learning classifier achieving 99.6% accuracy using ResNet18 Transfer Learning.**
 
@@ -116,16 +116,16 @@ jupyter notebook notebooks/03_Results_Analysis.ipynb
 
 The diagonal line indicates near-perfect classification across all 43 classes.
 
-![Confusion Matrix](https://via.placeholder.com/600x600.png?text=Confusion+Matrix+Placeholder)
+![Confusion Matrix](/Users/kaankoc/Projects/gtsrb_classifier/confusion_matrix.png)
 _(Replace with actual screenshot of your confusion matrix)_
 
 ### Real-World Inference
 
 The model is robust to real-world images when pre-processed correctly (cropped).
 
-|                          Input                           |     Prediction     | Confidence |
-| :------------------------------------------------------: | :----------------: | :--------: |
-| ![Test Image](https://via.placeholder.com/100?text=Sign) | **Speed Limit 50** | **99.99%** |
+|                                  Input                                  |     Prediction     | Confidence |
+| :---------------------------------------------------------------------: | :----------------: | :--------: |
+| ![Test Image](/Users/kaankoc/Projects/gtsrb_classifier/test_image.jpeg) | **Speed Limit 50** | **99.99%** |
 
 ---
 
