@@ -116,7 +116,7 @@ jupyter notebook notebooks/03_Results_Analysis.ipynb
 
 The diagonal line indicates near-perfect classification across all 43 classes.
 
-![Confusion Matrix](/Users/kaankoc/Projects/gtsrb_classifier/confusion_matrix.png)
+![Confusion Matrix](/confusion_matrix.png)
 _(Replace with actual screenshot of your confusion matrix)_
 
 ### Real-World Inference
@@ -125,7 +125,7 @@ The model is robust to real-world images when pre-processed correctly (cropped).
 
 |                                  Input                                  |     Prediction     | Confidence |
 | :---------------------------------------------------------------------: | :----------------: | :--------: |
-| ![Test Image](/Users/kaankoc/Projects/gtsrb_classifier/test_image.jpeg) | **Speed Limit 50** | **99.99%** |
+| ![Test Image](/test_image.jpeg) | **Speed Limit 50** | **99.99%** |
 
 ---
 
